@@ -1,0 +1,7 @@
+{
+  "name": "GeoPredict AI",
+  "description": "Advanced weather prediction and natural disaster early warning system using AI analysis of historical data patterns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
